@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Как Вас зовут?");
             string name = Console.ReadLine();
-            Console.WriteLine($"Здравствуйте, {name}");
+            Console.WriteLine($"Здравствуйте:, {name}");
             
         }
     }
